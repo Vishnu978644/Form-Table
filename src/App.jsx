@@ -34,6 +34,7 @@ setData(data.filter((_, i)=>i!==index))
   }
   return (
     <>
+    <h1>sab dummy</h1>
  <div className="">        
  <h1 className='border mb-2 font-bold text-3xl bg-amber-600 text-white rounded-lg '>Fomr Table</h1>
         {/* <//fomr section</> */}
