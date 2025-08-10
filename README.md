@@ -1,12 +1,28 @@
-# React + Vite
+📋 React Form with Add/Edit Table
+A simple React application that lets you add, edit, and display user data in a table.
+Built with React Hooks (useState) for state management.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+➕ Add new records with Name and Email fields
 
-Currently, two official plugins are available:
+✏️ Edit existing records directly from the table
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📄 Data displayed in a clean table format
 
-## Expanding the ESLint configuration
+⚡ Real-time updates without page reload
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Tech Stack
+React (Functional Components & Hooks)
+
+HTML/CSS
+
+JavaScript (ES6+)
+
+🚀 How It Works
+Fill out the Name and Email fields in the form
+
+Click Submit to add a record to the table
+
+Use the Edit button to modify existing data
+
+All changes update instantly in the UI
